@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "716702386565",
+    "firebase_url": "https://mafia-city-rc.firebaseio.com",
+    "project_id": "mafia-city-rc",
+    "storage_bucket": "mafia-city-rc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716702386565:android:28ba82fa8a39343a019cec",
+        "android_client_info": {
+          "package_name": "com.mafiarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716702386565-mpf7ejho9onef50ugesdqad1vih4277m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mafiarn",
+            "certificate_hash": "943d144511c26ca9d73393082d681fd65123038d"
+          }
+        },
+        {
+          "client_id": "716702386565-esnt9iasvidkg8be7onu4t0l7astcmgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mafiarn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "716702386565-gu79dq7tuvl6h95smsio2tpgretps1fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJguIz-rNeEcryEacBEFAaTr4oesYPxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716702386565-gu79dq7tuvl6h95smsio2tpgretps1fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
